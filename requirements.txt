@@ -14,6 +14,6 @@ googletrans-py
 sentence-transformers>=2.2.2
 scikit-learn>=1.0.2
 pinecone>=3.0.0
-numpy
+
 
 
