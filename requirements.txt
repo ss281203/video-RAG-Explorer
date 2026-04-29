@@ -3,6 +3,7 @@ opencv-python-headless>=4.5.5.64
 numpy>=1.21.0
 pathlib2>=2.3.7
 yt-dlp
+python-dotenv
 webvtt-py>=0.4.6  
 openai-whisper>=2023.6.0
 google-generativeai>=0.3.0
